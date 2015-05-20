@@ -1,0 +1,24 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: quicksort_tail_recursion - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\yrh\AppData\Local\Temp\RSP9BAC.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/quicksort_tail_recursion.pdb" /debug /machine:I386 /out:"Debug/quicksort_tail_recursion.exe" /pdbtype:sept 
+".\Debug\quicksort_tail_recursion.obj"
+]
+Creating command line "link.exe @C:\Users\yrh\AppData\Local\Temp\RSP9BAC.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+quicksort_tail_recursion.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
